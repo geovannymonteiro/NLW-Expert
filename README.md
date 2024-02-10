@@ -1,2 +1,6 @@
 # NLW-Expert
-Evento de HTML CSS JAVASCRIPT
+Tecnologias utilizadas
+-HTML
+-CSS
+-Javascript
+-Github
